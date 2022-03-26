@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyberSecHamza
 - 👀 I’m interested in all things OSINT, PenTesting & CyberSecurity related.
-- 🌱 I’m currently learning Pentesting & Python & how to leverage mediums such as this to secure employment opportunities
+- 🌱 I’m currently learning more about Pentesting, Python and GitHub
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me ... Hamza.it.cybersec@gmail.com
 
